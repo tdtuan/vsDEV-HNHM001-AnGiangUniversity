@@ -1,0 +1,7 @@
+vsDEV-HOC NUA HOC MAI
+
+------------CONTENT-----------------
+1. Introduction to LINQ
+2. Working with Data through LINQ to SQL
+3. Working with ASP.NET WebForm, LINQ
+4. DEMO Project
